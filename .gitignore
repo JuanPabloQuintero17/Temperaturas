@@ -1,0 +1,14 @@
+# Compilados
+bin/
+out/
+*.class
+
+# VS Code
+.vscode/*
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
