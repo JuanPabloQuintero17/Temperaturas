@@ -3,12 +3,10 @@ bin/
 out/
 *.class
 
-# VS Code
 .vscode/*
+!.vscode/settings.json
 
-# Logs
 *.log
 
-# Sistema
 .DS_Store
 Thumbs.db
